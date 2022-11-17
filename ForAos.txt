@@ -1,0 +1,5 @@
+mov 10
+addit 5
+save_R0
+mov 2
+save_R1
